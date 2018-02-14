@@ -1,0 +1,3 @@
+rootProject.name = 'travis_test'
+
+include ':app'
